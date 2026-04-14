@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @TikendraDeshmukh
+- 👋 Hi, I’m Tikendra Deshmukh
+- I am currently pursuing a Bachelor of Computer Applications (BCA).
